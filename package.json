@@ -1,0 +1,39 @@
+{
+  "name": "omgwtf-nft-kit",
+  "version": "1.0.0",
+  "description": "Explore NFTs and DeFi points with a comprehensive kit for NFT and DeFi interactions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bins11rubato22/omgwtf-nft-kit"
+  },
+  "author": "bins11rubato22",
+  "license": "MIT",
+  "dependencies": {
+    "omgwtf-nft-kit": "1.0.0",
+    "omgwtf-defi-points-kit": "1.0.0",
+    "body-parser": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "mongoose": "1.0.0",
+    "web3": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "request": "1.0.0",
+    "pg": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "sequelize": "1.0.0",
+    "ejs": "1.0.0",
+    "webpack": "1.0.0",
+    "sinon": "1.0.0",
+    "bluebird": "1.0.0",
+    "dotenv": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "mysql": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "socket.io": "1.0.0",
+    "fs-extra": "1.0.0",
+    "react-dom": "1.0.0"
+  }
+}
